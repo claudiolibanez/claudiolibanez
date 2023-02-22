@@ -9,12 +9,8 @@
 # Claudio Soares
 **`Software Developer`**
 
-<br />
-
 ## **Um pouco sobre mim**
 ___
-
-<br />
 
 <p>Como desenvolvedor dedicado, utilizo a tecnologia como ferramenta para transformar o mundo, criando soluções inovadoras através do meu código.</p>
 
@@ -32,8 +28,6 @@ DX, UI e desenvolvimento mobile são meus tópicos favoritos.
 ### 📌 **Minhas habilidades:**
 ___
 
-<br />
-
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white)
@@ -48,8 +42,6 @@ ___
 
 ### 📚 **Estudo contínuo:**
 ___
-
-<br />
 
 [![Kotlin badge](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/)
 [![Android badge](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white&link=https://developer.android.com/)](https://developer.android.com/)
