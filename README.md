@@ -23,6 +23,8 @@ DX, UI e desenvolvimento mobile são meus tópicos favoritos.
 [![Linkedin Badge](https://img.shields.io/badge/-Claudio%20Soares-E86109?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudiolibanez/)](https://www.linkedin.com/in/claudiolibanez/) 
 [![Gmail Badge](https://img.shields.io/badge/-claudiolibanez@gmail.com-E86109?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudiolibanez@gmail.com)](mailto:claudiolibanez@gmail.com)
 
+<br />
+
 ---
 
 ### 📌 **Minhas habilidades:**
