@@ -25,8 +25,6 @@ DX, UI e desenvolvimento mobile são meus tópicos favoritos.
 
 ---
 
-<br />
-
 ### 📌 **Minhas habilidades:**
 
 <br />
