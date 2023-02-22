@@ -43,7 +43,7 @@ DX, UI e desenvolvimento mobile são meus tópicos favoritos.
 
 <br />
 
-### 📚 **Estudo contínuo:**
+### 📚 **Estudando:**
 
 <br />
 
