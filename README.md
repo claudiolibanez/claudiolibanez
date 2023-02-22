@@ -1,10 +1,10 @@
-<div align="right">
+<!-- <div align="right"> -->
 
   <!-- [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com) -->
-  [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com)
+  <!-- [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com) -->
   <!-- [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com) -->
 
-</div>
+<!-- </div> -->
 
 # Claudio Soares
 **`Software Developer`**
