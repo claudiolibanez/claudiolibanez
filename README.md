@@ -56,3 +56,5 @@ DX, UI e desenvolvimento mobile são meus tópicos favoritos.
 [![.NET badge](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white&link=https://dotnet.microsoft.com/)](https://dotnet.microsoft.com/)
 [![Unity badge](https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity&logoColor=white&link=https://unity3d.com/)](https://unity3d.com/)
 [![Blender badge](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white&link=https://www.blender.org/)](https://www.blender.org/)
+
+<!-- ![snake gif](https://github.com/claudiolibanez/claudiolibanez/blob/output/github-contribution-grid-snake.svg) -->
